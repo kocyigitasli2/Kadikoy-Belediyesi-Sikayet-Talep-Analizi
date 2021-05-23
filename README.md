@@ -1,2 +1,2 @@
 # Sikayet-Talep-Analizi
-Yapayzeka Yazokulu (2019, IDEA) projesi
+Yapay Zeka Yaz Okulu Projesi (2019, IDEA)
